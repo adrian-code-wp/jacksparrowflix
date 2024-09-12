@@ -1,0 +1,30 @@
+head{
+    color:darkred;
+}
+
+
+body{
+    
+    background-color: black;
+    margin:5px;
+}
+section{
+    color:darkred;
+text-align: center;
+font-family:"Playwrite CU", cursive;
+    font-style: normal;
+
+}
+h1{
+    color:darkred;
+    text-align: center;
+    font-style: normal;
+      
+}
+p{
+    color:indigo;
+    text-align: center;
+    font-size: small;
+    font-family:"Playwrite CU", cursive;
+    font-style: normal;
+    };
